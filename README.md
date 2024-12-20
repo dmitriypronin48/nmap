@@ -63,10 +63,10 @@ Nmap done: 1 IP address (1 host up) scanned in 11.72 seconds
 уязвимость vsftpd 2.3.4 https://www.exploit-db.com/exploits/49757 
 уязвимость сервера DNS https://www.exploit-db.com/exploits/6122
 уязвимость сервера postgres https://www.exploit-db.com/exploits/7855
-```
+---
 
 
-###Задание 2
+### Задание 2
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
 
 Запишите сеансы сканирования в Wireshark.
